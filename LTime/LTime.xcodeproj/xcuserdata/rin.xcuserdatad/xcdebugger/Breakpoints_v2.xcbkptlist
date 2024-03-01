@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9B8D674C-A030-4577-9409-125F3318191A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1D81C0C5-B7C2-4415-B142-65D318AAB2A6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LTime/CoreData/TaskTemplate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "TaskTemplate"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "1D81C0C5-B7C2-4415-B142-65D318AAB2A6 - f375ea82000203c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LTime.TaskTemplate.init(saveTaskCoreData: LTime.SaveTaskCoreData, taskCoreData: LTime.TaskCoreData) -&gt; LTime.TaskTemplate"
+                  moduleName = "LTime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rin/Desktop/Xcode%20Project/LTime/LTime/CoreData/TaskTemplate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "1D81C0C5-B7C2-4415-B142-65D318AAB2A6 - f375ea820002032a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LTime.TaskTemplate.init(saveTaskCoreData: LTime.SaveTaskCoreData, taskCoreData: LTime.TaskCoreData) -&gt; LTime.TaskTemplate"
+                  moduleName = "LTime"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rin/Desktop/Xcode%20Project/LTime/LTime/CoreData/TaskTemplate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
