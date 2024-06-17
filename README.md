@@ -21,6 +21,13 @@ __3.タスク作成画面 (CreateTaskView)__
 
 __4.アプリの起動時の初期画面 (InitialView)__  
 アプリの起動時に初回かどうかを確認し、初回の場合はチュートリアル画面を表示します。初回でない場合はタスク一覧画面が表示されます。  
+
+<p>
+<img src="https://github.com/rin0700/LTimePF/blob/main/LTime/sampleImg1.png" width=200>
+<img src="https://github.com/rin0700/LTimePF/blob/main/LTime/sampleImg2.png" width=200>
+<img src="https://github.com/rin0700/LTimePF/blob/main/LTime/sampleImg3.png" width=200>
+<img src="https://github.com/rin0700/LTimePF/blob/main/sampleImg4.png" width=200>
+</p>
   
 #
 
